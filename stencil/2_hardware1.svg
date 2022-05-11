@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="84.472023mm"
+   height="48.881729mm"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     style="display:inline"
+     transform="translate(-178.61743,-208.12537)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5f1ff;fill-opacity:1;fill-rule:nonzero;stroke:#0070aa;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 233.82691,367.36237 147.22427,84.99984 c 4.33011,2.5 4.33012,7.5 3e-5,10.0001 l -147.22436,84.9999 c -4.33012,2.5 -12.99042,2.5 -17.32054,0 l -147.224278,-85 c -4.33014,-2.5 -4.33013,-7.5 -1e-5,-10 L 216.50639,367.36237 c 4.33014,-2.49999 12.9904,-2.5 17.32052,0 z"
+       id="rect5069-0-5"
+       transform="translate(113.083,-156.862)" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98;fill:#0070aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 164.54484,517.36221 51.96135,29.99998 c 4.33017,2.49998 12.99037,2.49998 17.32067,2e-5 l 17.32048,-10.00001 -51.96172,-30.00003 c -4.33012,-2.50001 -12.99038,-2.50001 -17.32051,-10e-6 z"
+       id="rect5069-0-7-8-7-9-2-7-9"
+       transform="translate(113.083,-156.862)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#d5f1ff;fill-opacity:1;stroke:none"
+       x="536.81415"
+       y="404.86411"
+       id="text4816-2-5-0-7-6-0-7-6-0"
+       transform="matrix(1,0.57735,-0.86602,0.500002,113.083,-156.862)"><tspan
+         x="536.81415"
+         y="404.86411"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px;fill:#d5f1ff;fill-opacity:1"
+         id="tspan8603-6-4-1">Base</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#d5f1ff;fill-opacity:1;stroke:none"
+       x="536.81409"
+       y="417.36414"
+       id="text4816-2-5-0-7-6-0-9-1-0-1"
+       transform="matrix(1,0.57735,-0.86602,0.500002,113.083,-156.862)"><tspan
+         x="536.81409"
+         y="417.36414"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px;fill:#d5f1ff;fill-opacity:1"
+         id="tspan8603-0-4-0-3">(hardware)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.696007mm"
+   height="27.913548mm"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer6"
+     style="display:inline"
+     transform="translate(-343.00082,-235.00019)">
+    <path
+       id="path9673-07-5-1"
+       d="m 251.14736,467.3622 69.28204,-39.99999 51.96152,30 -69.28204,40 z"
+       style="display:inline;fill:#328aa8;fill-opacity:0.408397;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       transform="translate(113.083,-156.862)" />
+    <g
+       id="g7790"
+       transform="translate(165.045,-466.862)"
+       style="display:inline">
+      <g
+         id="g3132">
+        <path
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 199.18584,777.36227 17.32051,9.99991 -1e-5,-50.00007 -17.3205,-9.99991 z"
+           id="path9671-7-1-0" />
+        <g
+           id="g10735-9-3-7"
+           transform="translate(-106.09,56.2505)">
+          <path
+             id="path10445-1-9-0"
+             d="m 307.43902,674.86218 v 5 l 12.99038,7.5 v -5 z"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             id="path10447-5-5-2"
+             d="m 311.76915,679.86218 6.49519,3.75 v 0"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             id="path10449-1-9-2"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             id="path10491-1-5-8"
+             d="m 310.73774,679.27787 c 0,0.62536 -0.48689,0.85122 -1.0875,0.50445 -0.60061,-0.34676 -1.0875,-1.13482 -1.0875,-1.76018 0,-0.62536 0.48689,-0.85121 1.0875,-0.50445 0.60061,0.34677 1.0875,1.13482 1.0875,1.76018 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735-9-3-7"
+           id="use10825-91-2-1"
+           transform="translate(2.71296e-5,5.00002)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735-9-3-7"
+           id="use10825-9-2-8-2"
+           transform="translate(7.12958e-6,20)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735-9-3-7"
+           id="use10825-9-5-7-9-9-1-6"
+           transform="translate(7.12958e-6,10)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735-9-3-7"
+           id="use10825-9-2-5-1-5"
+           transform="translate(7.12958e-6,15)"
+           width="744.09448"
+           height="1052.3622" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 201.35091,763.61218 v 2.5 l 2.16506,1.25 v -2.5 z"
+           id="path12570" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 201.35091,776.11218 12.99038,7.5 v 0"
+           id="path12572" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 201.35091,773.61218 12.99038,7.5"
+           id="path12574" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 201.35091,771.11218 12.99038,7.5 v 0"
+           id="path12572-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 201.35091,768.61218 12.99038,7.5"
+           id="path12574-5" />
+      </g>
+      <path
+         id="path9675-6-4-4"
+         d="m 216.50635,787.36218 v -50 l 43.30127,-25 v 50 z"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         id="path9673-0"
+         d="m 199.18584,727.36218 43.30127,-25 17.32051,10.00001 -43.30127,24.99999 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="246.91724"
+       y="322.36292"
+       id="text4816-8-3-1-8"
+       transform="matrix(1,0.577348,0,1,113.083,-156.862)"><tspan
+         id="tspan4818-2-6-6-67"
+         x="246.81723"
+         y="322.36292"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:-0.1px;text-anchor:end">Tower</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.814907mm"
+   height="19.485888mm"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-297.07222,-17.352706)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="246.91734"
+       y="72.362923"
+       id="text4816-8-3-5"
+       transform="matrix(1,0.577348,0,1,113.083,-156.862)"><tspan
+         id="tspan4818-2-6-5"
+         x="246.81734"
+         y="72.362923"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:-0.1px;text-anchor:end">1U network appliance</tspan></text>
+    <g
+       transform="translate(-42.8012,-546.862)"
+       id="g7920"
+       style="display:inline">
+      <g
+         transform="translate(-8.66025,-75)"
+         id="g12411">
+        <path
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 415.69219,672.36219 v 10 l 51.96152,30 v -10 z"
+           id="path9671-0" />
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 420.02231,679.86219 v -2.5 l -2.16507,-1.25 v 2.5 z"
+           id="path11997" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2"
+           width="1"
+           height="1"
+           transform="translate(8.06994e-6,2.50001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2"
+           width="1"
+           height="1"
+           transform="translate(2.16507,3.75001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9"
+           width="1"
+           height="1"
+           transform="translate(2.16507,1.25001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4"
+           width="1"
+           height="1"
+           transform="translate(4.33013,5.00001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3"
+           width="1"
+           height="1"
+           transform="translate(4.33014,2.50001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7"
+           width="1"
+           height="1"
+           transform="translate(6.4952,6.25001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8"
+           width="1"
+           height="1"
+           transform="translate(6.4952,3.75001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1"
+           width="1"
+           height="1"
+           transform="translate(8.66025,7.50001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7"
+           width="1"
+           height="1"
+           transform="translate(8.66026,5.00001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1"
+           width="1"
+           height="1"
+           transform="translate(10.8253,8.75001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6"
+           width="1"
+           height="1"
+           transform="translate(10.8253,6.25001)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1-4"
+           width="1"
+           height="1"
+           transform="translate(12.9904,10)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7-4"
+           width="1"
+           height="1"
+           transform="translate(12.9904,7.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7"
+           width="1"
+           height="1"
+           transform="translate(15.1555,11.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6-2"
+           width="1"
+           height="1"
+           transform="translate(15.1555,8.75)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1-9"
+           width="1"
+           height="1"
+           transform="translate(19.4856,13.75)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7-0"
+           width="1"
+           height="1"
+           transform="translate(19.4856,11.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-4"
+           width="1"
+           height="1"
+           transform="translate(21.6506,15)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6-4"
+           width="1"
+           height="1"
+           transform="translate(21.6506,12.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1-4-8"
+           width="1"
+           height="1"
+           transform="translate(23.8157,16.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7-4-1"
+           width="1"
+           height="1"
+           transform="translate(23.8157,13.75)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7"
+           width="1"
+           height="1"
+           transform="translate(25.9808,17.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6-2-1"
+           width="1"
+           height="1"
+           transform="translate(25.9808,15)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1-9-8"
+           width="1"
+           height="1"
+           transform="translate(28.1458,18.75)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7-0-0"
+           width="1"
+           height="1"
+           transform="translate(28.1458,16.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-4-2"
+           width="1"
+           height="1"
+           transform="translate(30.3109,20)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6-4-6"
+           width="1"
+           height="1"
+           transform="translate(30.3109,17.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-1-4-8-3"
+           width="1"
+           height="1"
+           transform="translate(32.476,21.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-7-4-1-8"
+           width="1"
+           height="1"
+           transform="translate(32.476,18.75)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7-2"
+           width="1"
+           height="1"
+           transform="translate(34.641,22.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-9-3-8-6-2-1-1"
+           width="1"
+           height="1"
+           transform="translate(34.641,20)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7-2-6"
+           width="1"
+           height="1"
+           transform="translate(38.9711,25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7-2-6-5"
+           width="1"
+           height="1"
+           transform="translate(41.1362,26.25)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7-2-6-5-3"
+           width="1"
+           height="1"
+           transform="translate(38.9711,22.5)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path11997"
+           id="use11999-2-2-4-7-1-7-7-2-6-5-3-5"
+           width="1"
+           height="1"
+           transform="translate(41.1362,23.75)" />
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 463.32358,707.36219 v -5 l 2.16507,1.25 v 5 z"
+           id="path12337" />
+      </g>
+      <path
+         id="path9673-2"
+         d="m 407.03194,597.36218 34.64102,-20 51.96152,30 -34.64102,20 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         id="path9675-9"
+         d="m 458.99346,637.36218 v -10 l 34.64102,-20 v 10 z"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

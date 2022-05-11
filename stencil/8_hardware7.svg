@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.091713mm"
+   height="21.431238mm"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-338.22621,-80.000238)">
+    <g
+       id="g8105"
+       transform="translate(130.404,-156.862)"
+       style="display:inline">
+      <path
+         id="path9673"
+         d="m 233.82687,277.36223 69.28203,-40 51.96152,30 -69.28203,40 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         id="path9675"
+         d="m 285.78839,317.36223 v -10 l 69.28203,-40 v 10 z"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         transform="translate(-34.641,-370)"
+         id="g10898">
+        <path
+           style="fill:#f2f2f2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 268.46788,647.36218 v 10 l 51.96152,30 v -10 z"
+           id="path9671" />
+        <g
+           id="g10735">
+          <path
+             id="path10445"
+             d="m 307.43902,674.86218 v 5 l 12.99038,7.5 v -5 z"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             id="path10447"
+             d="m 311.76915,679.86218 6.49519,3.75 v 0"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             id="path10449"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          <path
+             id="path10491"
+             d="m 310.73774,679.27787 c 0,0.62536 -0.48689,0.85122 -1.0875,0.50445 -0.60061,-0.34676 -1.0875,-1.13482 -1.0875,-1.76018 0,-0.62536 0.48689,-0.85121 1.0875,-0.50445 0.60061,0.34677 1.0875,1.13482 1.0875,1.76018 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#217844;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735"
+           id="use10825"
+           transform="translate(-4.6376e-6,-5)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735"
+           id="use10825-9"
+           transform="translate(-12.9904,-12.5)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735"
+           id="use10825-9-5"
+           transform="translate(-12.9904,-7.5)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735"
+           id="use10825-9-0"
+           transform="translate(-25.9808,-20)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g10735"
+           id="use10825-9-5-4"
+           transform="translate(-25.9808,-15)"
+           width="744.09448"
+           height="1052.3622" />
+        <path
+           style="fill:#eeffaa;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 270.63294,653.61218 v -2.5 l 8.66025,5 v 2.5 z"
+           id="path10894" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 279.29319,661.11218 -8.66025,-5 v 0"
+           id="path10896" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="246.91724"
+       y="142.3629"
+       id="text4816-8-3-1"
+       transform="matrix(1,0.577348,0,1,113.083,-156.862)"><tspan
+         id="tspan4818-2-6-6"
+         x="246.81723"
+         y="142.3629"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:end;letter-spacing:-0.1px;text-anchor:end">1U rack</tspan></text>
+  </g>
+</svg>

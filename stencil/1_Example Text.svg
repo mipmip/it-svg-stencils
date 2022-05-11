@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="43.227554mm"
+   height="41.771061mm"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-5.4123575,-190.00021)">
+    <path
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m -60.621785,367.36222 v 9.99999 l 51.9615232,30 v -10 z"
+       id="path9671-0-2"
+       transform="translate(113.083,-156.862)" />
+    <path
+       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m -60.621785,367.3622 34.641023,-20 51.96152,29.99999 -34.6410198,20 z"
+       id="path9673-2-6"
+       transform="translate(113.083,-156.862)" />
+    <path
+       style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m -8.6602518,407.3622 v -10 l 34.6410198,-20 v 10 z"
+       id="path9675-9-0"
+       transform="translate(113.083,-156.862)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-6.4952421"
+       y="399.86224"
+       id="text4816-2"
+       transform="matrix(1,-0.577348,0,1,113.083,-156.862)"><tspan
+         id="tspan4818-6"
+         x="-6.4952421"
+         y="399.86224"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.1px">Example</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-58.456791"
+       y="409.86218"
+       id="text4816-8"
+       transform="matrix(1,0.577348,0,1,113.083,-156.862)"><tspan
+         id="tspan4818-2"
+         x="-58.456791"
+         y="409.86218"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.1px">ExampleText</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="289.99731"
+       y="399.86349"
+       id="text4816-2-5"
+       transform="matrix(1,0.57735,-0.86602,0.500002,113.083,-156.862)"><tspan
+         id="tspan4818-6-5"
+         x="289.99731"
+         y="399.86349"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.99998px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px">ExampleText</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-346.29086"
+       y="389.8613"
+       id="text4816-8-2-5"
+       transform="matrix(0.999998,-0.577352,0.866025,0.5,113.083,-156.862)"><tspan
+         id="tspan4818-2-3-3"
+         x="-346.29086"
+         y="389.8613"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.1px">Example</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5f1ff;fill-opacity:1;fill-rule:nonzero;stroke:#0070aa;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m -17.320489,412.36239 69.281983,39.9997 c 4.33011,2.5 4.33012,7.50001 3e-5,10.00011 l -69.282064,39.99989 c -4.33012,2.5 -12.990416,2.5 -17.320536,0 L -103.92304,462.3622 c -4.33014,-2.5 -4.33013,-7.5 -1e-5,-10 l 69.282046,-39.99981 c 4.33014,-2.49999 12.990396,-2.5 17.320515,0 z"
+       id="rect5069-0-5-7-1-6"
+       transform="translate(113.083,-156.862)" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98;fill:#0070aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m -86.602532,472.3621 51.961346,29.99998 c 4.33017,2.49998 12.990366,2.49998 17.320666,2e-5 L -2.9772933e-5,492.36209 -51.961756,462.36206 c -4.33012,-2.50001 -12.99038,-2.50001 -17.32051,-10e-6 z"
+       id="rect5069-0-7-8-7-9-2-7-0"
+       transform="translate(113.083,-156.862)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#d5f1ff;fill-opacity:1;stroke:none"
+       x="372.26901"
+       y="504.86374"
+       id="text4816-2-5-0-7-6-0-7-6-3"
+       transform="matrix(1,0.57735,-0.86602,0.500002,113.083,-156.862)"><tspan
+         x="372.26901"
+         y="504.86374"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px;fill:#d5f1ff;fill-opacity:1"
+         id="tspan8603-6-4-9">Box &amp; text</tspan><tspan
+         x="372.26901"
+         y="517.36377"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px;fill:#d5f1ff;fill-opacity:1"
+         id="tspan8807">model</tspan></text>
+    <path
+       id="path9673-07-5-9"
+       d="m -60.621775,447.36216 34.641013,-19.99996 51.961521,30 -34.6410178,19.99997 z"
+       style="display:inline;fill:#328aa8;fill-opacity:0.408397;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       transform="translate(113.083,-156.862)" />
+  </g>
+</svg>
