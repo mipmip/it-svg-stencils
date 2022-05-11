@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.668461mm"
+   height="6.4429808mm"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title5870">SVG Stencils</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Stencils</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Waltzer Kristopher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:language />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>architecture stencils server network virtual machine datacenter</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer37"
+     style="display:inline"
+     transform="translate(-744.88196,-133.48738)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="632.198"
+       y="-57.636169"
+       id="text4816-2-5-5-5"
+       transform="matrix(1,0.577348,4.03162e-6,1,113.083,-156.862)"><tspan
+         id="tspan4818-6-5-4-1"
+         x="632.198"
+         y="-57.636169"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.99998px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:-0.0999997px">HSM</tspan></text>
+    <g
+       id="g5532"
+       transform="translate(268.968,-606.862)"
+       style="display:inline">
+      <g
+         transform="translate(-29.5683,-55.8253)"
+         id="g10817">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffeeaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="m 522.40341,796.67468 c -3.53267,0 -6.41,1.62421 -6.41,3.62779 0,2.00358 2.87733,3.62779 6.41,3.62779 0.35126,0 0.6929,-0.021 1.02877,-0.0518 l 5.85417,2.86104 3.65917,2.07302 2.84006,2e-5 h 3.65513 v -2.07303 l -3.94201,-2.23915 -6.73802,-3.83509 c 0.0219,-0.12195 0.0263,-0.23755 0.0263,-0.36278 0,-2.00358 -2.85095,-3.62779 -6.38362,-3.62779 z m -1.31893,1.91754 c 0.96863,0 1.74099,0.39758 1.74099,0.88104 0,0.48346 -0.77236,0.85512 -1.74099,0.85512 -0.96862,0 -1.74098,-0.37166 -1.74098,-0.85512 0,-0.48346 0.77236,-0.88104 1.74098,-0.88104 z"
+           id="path10721-4" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="m 519.25,799.1875 c -4.18506,0 -7.59375,1.95875 -7.59375,4.375 0,2.41625 3.40869,4.375 7.59375,4.375 0.41612,0 0.82086,-0.0253 1.21875,-0.0625 l 1.65145,0.93752 1.08253,-0.625 h 2.16507 l 1.08253,0.625 v 2.5 h 2.16506 l 1.08253,0.625 h 2.16507 l 1.08253,0.625 v 1.25 l 1.08253,0.625 h 4.33013 v -3.75 L 536.92894,809.875 526.7815,804 c 0.0259,-0.14707 0.0312,-0.28648 0.0312,-0.4375 0,-2.41625 -3.37744,-4.375 -7.5625,-4.375 z m -1.5625,2.3125 c 1.1475,0 2.0625,0.47946 2.0625,1.0625 0,0.58304 -0.915,1.03125 -2.0625,1.03125 -1.1475,0 -2.0625,-0.44821 -2.0625,-1.03125 0,-0.58304 0.915,-1.0625 2.0625,-1.0625 z"
+           id="path10721" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 526.11043,806.11218 8.66026,5"
+           id="path10742" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 528.18844,802.42732 7.31026,4.14605"
+           id="path10742-2" />
+      </g>
+      <path
+         id="path5330-5-5-9-6-8"
+         d="m 476.31396,747.3622 25.98077,15 17.3205,-10"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
